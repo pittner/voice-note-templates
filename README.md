@@ -74,3 +74,7 @@ PRs welcome, especially for professions the ten categories miss — nurses, surv
 ## Licence
 
 MIT — see [`LICENSE`](LICENSE). Copy them, fork them, translate them, ship them inside your own product docs.
+
+## More free tools
+
+- [40 free AI prompts for habits that survive a missed day](https://pittner.github.io/habit-prompts/)
