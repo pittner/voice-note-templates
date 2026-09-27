@@ -65,7 +65,7 @@ The one property worth deciding deliberately is **where the audio goes**, becaus
 
 > "On-device" is a technical statement about where processing runs. It is not a legal or compliance claim, and nothing in this pack should be read as one.
 
-These templates were written alongside [VoxFlow](https://voxflow.bemooore.com/) — free, no account, on-device speech model, iPhone / Mac / Apple Watch, 99 languages, works offline. You do not need it to use anything here.
+These templates were written alongside [VoxFlow](https://voxflow.bemooore.com/): free, no account, on-device speech model, 99 languages, works offline. App Store version for iPhone, iPad and Apple Watch; [VoxFlow Pro for Mac](https://bemooore.com/voxflow/mac/) is a separate free, notarized push-to-talk download. You do not need either to use anything here.
 
 ## Contributing
 
